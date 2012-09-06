@@ -32,6 +32,7 @@
     self.window.rootViewController = self.tabBarController;
     [self.window makeKeyAndVisible];
     return YES;
+    // Add test update push.
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
